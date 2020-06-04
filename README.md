@@ -1,8 +1,10 @@
-Created during [IEEE Impuslse 2017](https://ahduni.edu.in/seas/news/1st-prize-at-ieee-impulse-2017-a-national-level-hackathon-organised-by-l-d-college-of-engineering) Hackathon. Won 1st prize.
+Created during [IEEE Impuslse 2017](https://ieee-ldce-impulse.hackerearth.com/) Hackathon. [Won 1st prize] (https://ahduni.edu.in/seas/news/1st-prize-at-ieee-impulse-2017-a-national-level-hackathon-organised-by-l-d-college-of-engineering).
 
 Team Name: Carpe_Diem
+
+
 Title : NewsOverHEAR
-https://ieee-ldce-impulse.hackerearth.com/
+
 
 Idea Abstract : News OverHEAR is powerfully scrapping the web to convey news progressively. We also categorised the news for faster access. It has features like voice search for processing questions faster, Play/Stop button to build client collaboration, Email based membership to hold clients, Manual searching if there is any occurrence of inaccessibility of microphone due to noise.
 
